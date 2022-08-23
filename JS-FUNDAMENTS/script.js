@@ -49,3 +49,6 @@ let newUser = "Nicoleta Diana";
 // uppercase pt VARIABILE se foloseste pt const care sunt "hard-coded"
 //adica atunci cand stii valoarea ex: const BIRTHDAY = "02.12.1986" si
 //direct scrisa in cod.
+// let a = NaN;
+// let b = 5;
+// console.log(a + b); //Rezulta NaN;
