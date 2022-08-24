@@ -52,3 +52,40 @@ let newUser = "Nicoleta Diana";
 // let a = NaN;
 // let b = 5;
 // console.log(a + b); //Rezulta NaN;
+const lotsOfDecimal = 1.766584958675746364;
+lotsOfDecimal;
+const twoDecimalPlaces = lotsOfDecimal.toFixed(2);
+twoDecimalPlaces;
+console.log(twoDecimalPlaces); //1.77
+console.log(10 + 7);
+console.log(9 * 8);
+console.log(60 % 3);
+
+const num1 = 10;
+const num2 = 50;
+console.log(9 * num1);
+console.log(num1 ** 3);
+console.log(num2 / num1);
+
+console.log(5 + 10 * 3);
+console.log((num2 % 9) * num1);
+console.log(num2 + num1 / 8 + 2);
+let numb2 = 6;
+--numb2;
+console.log(numb2);
+let numbe1 = 4;
+++numbe1;
+console.log(numbe1);
+let t = 3; // x contains the value 3
+let r = 4; // y contains the value 4
+t *= r; // x now contains the value 12
+// TASK
+// Assignment result a corect, b corect, c corect si d gresit
+//Asignment result a corect x corect
+//Type Conversion 1string,2numar,3-,4number,5number,6string,7string,
+//8number,9NaN(number),10string,11number,12gresit,13gresit,14number
+//null devine 0 dupa numeric conversion dupa transformare
+//undefined devine NaN dupa conversia numerica
+//"\t" si "\n" dupa conversie devin empty string care ii 0.
+// Fix the addition Put function Number()between prompt and rezult number
+// Se mai poate rezolva si punand + in fata la prompt si transformat in unary
