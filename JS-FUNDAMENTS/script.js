@@ -89,3 +89,9 @@ t *= r; // x now contains the value 12
 //"\t" si "\n" dupa conversie devin empty string care ii 0.
 // Fix the addition Put function Number()between prompt and rezult number
 // Se mai poate rezolva si punand + in fata la prompt si transformat in unary
+
+let NAME = "Ilya";
+console.log(`hello ${1}`); //hello 1
+console.log(`hello ${"NAME"}`); // hello NAME
+console.log(`hello ${NAME}`); // hello Ilya
+//Corect toate 3. YEYYYYY
